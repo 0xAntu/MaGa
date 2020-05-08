@@ -5,8 +5,6 @@ MaGa is a simple Maths Game
 
 Link: https://antu1024.github.io/MaGa/
 
-# Special Thanks 
- [+] Issam
- 
-# CopyRight
- [+] Udemy
+# :))
+Special Thanks [+] Issam
+CopyRight © Udemy
