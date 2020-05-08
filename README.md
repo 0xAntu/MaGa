@@ -7,4 +7,5 @@ Link: https://antu1024.github.io/MaGa/
 
 # :))
 Special Thanks [+] Issam
+
 CopyRight © Udemy
